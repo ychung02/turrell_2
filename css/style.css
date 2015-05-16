@@ -1,0 +1,22 @@
+img {
+  display: block; width:100%;
+  position:absolute;
+
+}
+@import url(http://fonts.googleapis.com/css?family=Advent+Pro:100);
+html { 
+  background:  url(http://i.giphy.com/UES7WVGWRqUg0.gif) no-repeat top left fixed;
+  background-size: 100%
+}
+h1{
+  font-family: 'Advent Pro', sans-serif;
+  font-size: 3em;
+  margin: .2em .5em;
+  color: rgba(0,0,0, 0.3);
+}
+body {
+   width: 100%;
+  height: 100%;
+  margin: 0px;
+  padding: 0px;
+}
